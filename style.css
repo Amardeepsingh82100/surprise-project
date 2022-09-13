@@ -1,0 +1,44 @@
+body{
+
+    background-color: rgb(163, 159, 159)
+    
+    ;
+}
+.container{
+    background-color:white
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-left: -25px;
+    margin-top: 80px;
+}
+.section{
+    display: flex;
+    justify-content: baseline;
+    list-style-type: none;
+
+
+}
+.section li{
+    padding: 10px;
+}
+#bella
+{
+    margin-top: -10px;
+}
+.right_section ul{
+
+    display: flex;
+
+    justify-content: space-between;
+    list-style-type: none;
+}
+.right_section li{
+    padding: 10px;
+}
+.shop_img{
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+}
